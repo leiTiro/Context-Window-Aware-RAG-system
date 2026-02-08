@@ -1,0 +1,11 @@
+Salesforce uses the Lead object to store information about potential customers.
+A lead typically includes contact details, company information, source, and status.
+Leads represent early-stage prospects that have not yet been qualified.
+
+Salesforce allows leads to be created from multiple sources including web forms,
+manual entry, marketing campaigns, and API integrations.
+Each lead can be tracked through activities such as emails, calls, and tasks.
+
+Once a lead is qualified, it can be converted into an Account, Contact, and Opportunity.
+This conversion process preserves historical activity and supports reporting.
+Lead management is central to Salesforce sales workflows.

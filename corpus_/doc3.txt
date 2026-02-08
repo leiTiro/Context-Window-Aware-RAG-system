@@ -1,0 +1,11 @@
+Salesforce integrates with external systems through REST APIs, webhooks,
+and middleware platforms.
+Leads can be synchronized with marketing platforms, customer data platforms,
+and analytics tools.
+
+Automation tools such as Salesforce Flow and Process Builder
+can trigger actions when lead data changes.
+These automations help ensure data consistency across systems.
+
+While integrations are powerful, excessive automation can introduce
+complexity and performance considerations if not governed carefully.

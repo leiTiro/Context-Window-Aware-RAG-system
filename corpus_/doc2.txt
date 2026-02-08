@@ -1,0 +1,11 @@
+In Salesforce, lead-related communication such as emails and calls is stored
+as Activity records linked to the Lead object.
+Email messages can be automatically captured using email-to-Salesforce
+or through integration with external email systems.
+
+Activities provide a timeline of interactions between sales representatives
+and potential customers.
+This allows teams to understand engagement history and follow up effectively.
+
+Salesforce stores metadata such as timestamps, owners, and status changes
+to support automation, reporting, and sales performance tracking.
